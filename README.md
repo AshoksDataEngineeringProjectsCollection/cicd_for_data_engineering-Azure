@@ -2,10 +2,9 @@
 ## System Architecture
 ![system_architecture.jpg](images%2Fsystem_architecture.jpg)
 
-## Getting Started
-1. Clone this repository
-2. Replace the content of the file named `terraform.tfvars` in the root directory of the project
-3. Run the following commands in the root directory of the project:
+
+
+## Flow Discussion
     - `terraform init` (to initialize the terraform project)
     - `terraform validate` (to validate the terraform code)
     - `terraform plan` (to see the changes that will be applied)
